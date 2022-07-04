@@ -1,0 +1,48 @@
+﻿Time,Level,Robot name,Process,Hostname,Host Identity,Message
+1:12:50,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Resume_Parser_NehaNatesh execution started
+1:12:54,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,The primary screen resolution is: 1920 x 1080
+1:13:14,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Shortlisted Folder - 1QU1YLvqh_85yXPP-89nz3IC9FI7D3__p created in the drive project folder 
+1:13:18,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Get the transaction item Malay_Resume.pdf
+1:13:18,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Processing File : 1
+1:13:19,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Started Process
+1:13:38,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Data extracted for resume Malay_Resume.pdf
+1:13:52,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,"Malay_Resume.pdf skills do not match, thus resume rejected."
+1:13:52,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Transaction Successful.
+1:13:52,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Get the transaction item Mrunalini Ramachandran Resume.pdf
+1:13:52,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Processing File : 2
+1:13:52,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Started Process
+1:14:40,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Data extracted for resume Mrunalini Ramachandran Resume.pdf
+1:15:20,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,"Mrunalini Ramachandran Resume.pdf skills do not match, thus resume rejected."
+1:15:20,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Transaction Successful.
+1:15:20,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Get the transaction item Durga Resume.pdf
+1:15:20,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Processing File : 3
+1:15:20,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Started Process
+1:15:51,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Data extracted for resume Durga Resume.pdf
+1:16:37,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Durga Resume.pdf has been shortlisted and moved to the Job ID folder
+1:16:37,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Transaction Successful.
+1:16:38,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Get the transaction item John Smith.pdf
+1:16:38,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Processing File : 4
+1:16:38,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Started Process
+1:17:02,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Data extracted for resume John Smith.pdf
+1:17:14,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,"John Smith.pdf skills do not match, thus resume rejected."
+1:17:14,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Transaction Successful.
+1:17:14,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Get the transaction item RobertSmith.pdf
+1:17:14,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Processing File : 5
+1:17:14,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Started Process
+1:17:37,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Data extracted for resume RobertSmith.pdf
+1:18:00,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,RobertSmith.pdf has been shortlisted and moved to the Job ID folder
+1:18:00,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Transaction Successful.
+1:18:00,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Get the transaction item linsam.pdf
+1:18:00,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Processing File : 6
+1:18:00,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Started Process
+1:18:26,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Data extracted for resume linsam.pdf
+1:18:39,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,linsam.pdf has been shortlisted and moved to the Job ID folder
+1:18:39,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Transaction Successful.
+1:18:39,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Get the transaction item AasthaGupta.pdf
+1:18:39,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Processing File : 7
+1:18:40,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Started Process
+1:19:07,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Data extracted for resume AasthaGupta.pdf
+1:19:19,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,AasthaGupta.pdf has been shortlisted and moved to the Job ID folder
+1:19:19,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Transaction Successful.
+1:19:19,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Process finished due to no more transaction data
+1:19:33,Info,neha.natesh88@gmail.com-unattended,Resume_Parser_NehaNatesh,NEHA,NEHA\Neha,Resume_Parser_NehaNatesh execution ended
